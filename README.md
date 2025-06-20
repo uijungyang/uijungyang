@@ -12,7 +12,7 @@
 
 ## About Me 👋
 
-[![UiJung's GitHub stats](https://github-readme-stats.vercel.app/api?username=uijungyang&hide=stars,contribs&count_private=true&show_icons=true&&theme=gruvbox_light)](https://github.com/uijungyang/github-readme-stats)
+[![UiJung's GitHub stats](https://github-readme-stats.vercel.app/api?username=uijungyang&show_icons=true&&theme=gruvbox_light)](https://github.com/uijungyang/github-readme-stats)
 
 
 <!--
