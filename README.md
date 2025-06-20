@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![UiJung's GitHub stats](https://github-readme-stats.vercel.app/api?username=uijungyang&hide=stars,contribs&count_private=true&show_icons=true&&theme=gruvbox_light)](https://github.com/uijungyang/github-readme-stats)
+
 <!--
 **uijungyang/uijungyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
